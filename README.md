@@ -1,3 +1,4 @@
+![lasagna](https://user-images.githubusercontent.com/44240533/222984681-ab3809cc-fb60-466f-acea-e3cdbf010ea7.svg)
 # Cook your lasagna
 
 Welcome to Cook your lasagna on Exercism's Java Track.
